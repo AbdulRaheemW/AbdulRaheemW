@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul Raheem! 👋
 
-I am a first-year Computer Science student at the University of Central Punjab (UCP), maintaining a 3.96 CGPA. I am passionate about building a strong technical foundation and currently bridging the gap between coding and operational efficiency.
+I am a  Computer Science student at the University of Central Punjab (UCP), maintaining a 3.96 CGPA. I am passionate about building a strong technical foundation and currently bridging the gap between coding and operational efficiency.
 
 - 🔭 **I’m currently studying:** C++ Fundamentals & Core Logic
 - 🌱 **I’m currently learning:** Object-Oriented Programming and basic data structures.
